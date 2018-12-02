@@ -3,3 +3,21 @@
     padding: 5%;
     border-radius: 10px;
 }
+
+.customIcon{
+    color: rgba(0,0,0,0);
+    border-radius: 50%;
+}
+
+#teamJatayu{
+    background: url("../img/clients/logo_teamJatayu.jpg");
+    background-size: cover;
+}
+#zennia{
+    background: url("../img/clients/logo_zennia.jpg");
+    background-size: cover;
+}
+#dcac{
+    background: url("../img/clients/logo_leher.jpg");
+    background-size: cover;
+}
