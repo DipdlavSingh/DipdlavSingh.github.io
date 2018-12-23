@@ -21,3 +21,13 @@
     background: url("../img/clients/logo_leher.jpg");
     background-size: cover;
 }
+
+.carousel-item {
+    width: 100vw;
+    min-height: 56.25vw;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
