@@ -15,17 +15,28 @@
 }
 #zennia{
     background: url("../img/clients/logo_zennia.jpg");
-    background-size: cover;
+    background-size: 85% 85%;
+    background-color: #ffffff;
+    background-position: 50%;
+    background-repeat: no-repeat;
+
 }
 #dcac{
     background: url("../img/clients/logo_leher.jpg");
     background-size: cover;
 }
-
 #bestech{
     background: url("../img/clients/logo_bestech.jpg");
+    background-size: 100%;
+    background-color: #ffffff;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+#ju{
+    background: url("../img/clients/logo_ju.jpeg");
     background-size: contain;
 }
+
 
 .carousel-item {
     width: 100vw;
